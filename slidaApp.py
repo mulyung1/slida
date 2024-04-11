@@ -1,5 +1,3 @@
-Run this app with `python callbak.py` and
-# visit http://127.0.0.1:2050/ in your web browser.
 
 from dash import Dash, dcc, html, callback, Input, Output
 import plotly.express as px
